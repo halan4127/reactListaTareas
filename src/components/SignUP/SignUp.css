@@ -1,0 +1,41 @@
+.signUpForm{
+    background-color: #fff;
+    border-radius: 15px;
+    width: 40%;
+    margin: auto;
+    margin-top: 5%;
+    
+}
+@media (max-width: 800px) {
+    .signUpForm{
+    width: 80%;
+    }
+}
+.signUpText{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align:center;
+    padding-top: 35px;
+}
+
+.signUpLabelText{
+    margin-top: 7px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.signUpParent{
+    margin: 30px;
+}
+
+.signUpButtonText{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.signInButton{
+    text-align: right;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,40 @@
+.loginForm{
+    background-color: #fff;
+    border-radius: 15px;
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+    
+}
+@media (max-width: 800px) {
+    .loginForm{
+    width: 80%;
+    }
+}
+.loginText{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align:center;
+    padding-top: 35px;
+}
+
+.loginlabelText{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.loginParent{
+    margin: 30px;
+}
+
+.loginButtonText{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.registerButton{
+    text-align: right;
+    padding-bottom: 50px;
+}
